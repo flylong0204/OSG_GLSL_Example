@@ -1,0 +1,14 @@
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/shadow.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/skybox.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/billboard.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/example/CMakeFiles/example.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/exam01.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/exam02.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/water.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/occlusion.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/cloud.dir
+D:/Project/OSG/OSG_GLSL_Example/build/CMakeFiles/ALL_BUILD.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/geometry.dir
+D:/Project/OSG/OSG_GLSL_Example/build/CMakeFiles/ZERO_CHECK.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/bump_mapping.dir
+D:/Project/OSG/OSG_GLSL_Example/build/src/CMakeFiles/octree.dir
