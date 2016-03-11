@@ -6,5 +6,7 @@
 # If you like it, i hope you do it with me together.
 # My email is 469769636@qq.com. And please connect me.
 # 
+#	该项目是由CMake组织方式组成。
+#	目前支持Centos Windows 系统。 其他系统会在后期完善。
 # 
 

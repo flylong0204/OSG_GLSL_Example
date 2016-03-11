@@ -17,7 +17,7 @@ TriGeom::TriGeom()
 	osg::ref_ptr<osg::Geometry> geo = new osg::Geometry();
 	geo->setVertexArray(vt.get());
 	geo->setColorArray(colorArray.get());
-	geo->setColorBinding(osg::Geometry::AttributeBinding::BIND_PER_VERTEX);
+	geo->setColorBinding(osg::Geometry::BIND_PER_VERTEX);
 	geo->addPrimitiveSet(new osg::DrawArrays(GL_TRIANGLE_STRIP, 0, 3));
 
 	m_Root = new osg::Geode;
